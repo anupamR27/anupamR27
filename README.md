@@ -6,11 +6,15 @@
 
 </div>
 
+---
+
 ## About Me
 
-- B.Tech Information Technology student at Manipal Institute of Technology
-- Interested in backend engineering, systems, and AI
-- Currently exploring scalable software systems and applied AI
+- B.Tech Information Technology student at **Manipal Institute of Technology**
+- Interested in **backend engineering, systems, AI, and developer tooling**
+- I enjoy building software from first principles and understanding how things work under the hood
+
+---
 
 ## Tech Stack
 
@@ -24,9 +28,11 @@
 ### Backend & Systems
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2F4F4F?style=flat)
+![Java Sockets](https://img.shields.io/badge/Java_Sockets-ED8B00?style=flat)
 
 ### Databases
 
@@ -41,6 +47,7 @@
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat)
 ![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-6A5ACD?style=flat)
 ![MCP](https://img.shields.io/badge/MCP-444444?style=flat)
 
 ### Frontend
@@ -54,12 +61,29 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+---
+
 ## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anupamR27&show_icons=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anupamR27&show_icons=true&hide_border=true&theme=tokyonight" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamR27&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamR27&layout=compact&hide_border=true&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=anupamR27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-anupamR27-181717?style=flat&logo=github)](https://github.com/anupamR27)
+[![Email](https://img.shields.io/badge/Email-anupamrastogi27%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anupamrastogi27@gmail.com)
 
 </div>
