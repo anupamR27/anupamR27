@@ -84,6 +84,5 @@
 ### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-anupamR27-181717?style=flat&logo=github)](https://github.com/anupamR27)
-[![Email](https://img.shields.io/badge/Email-anupamrastogi27%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anupamrastogi27@gmail.com)
 
 </div>
