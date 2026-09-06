@@ -2,7 +2,7 @@
 
 # Hi, I'm Anupam
 
-### Software Engineering • Backend Systems • AI
+### Software Engineering - Backend Systems, AI
 
 </div>
 
@@ -63,26 +63,4 @@
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anupamR27&show_icons=true&hide_border=true&theme=tokyonight" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamR27&layout=compact&hide_border=true&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=anupamR27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-### Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-anupamR27-181717?style=flat&logo=github)](https://github.com/anupamR27)
-
-</div>
